@@ -28,3 +28,6 @@ This talk will give a introduce practical tools and concepts to better leverage 
 - A short introduction to Ensembles with model averaging and Random Forests
 
 Olivier is a R&D Software Engineer working in Java by day and a Python machine learning hacker by night. He is interested in applications to Natural Language Processing, Computer Vision and predictive modelling.
+
+# Evaluation
+This is a binary classification task, You are evaluated on classification accuracy (the percentage of labels you predict correctly). The training set has 1000 samples and the testing set has 9000. Your prediction should be a 9000 x 1 vector of ones or zeros. You also need an Id column (1 to 9000) and should include a header.
