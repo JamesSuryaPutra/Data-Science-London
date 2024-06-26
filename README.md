@@ -1,5 +1,4 @@
 # Data Science London + scikit-learn
-![header](https://github.com/JamesSuryaPutra/Data-Science-London/assets/155945814/a91fce84-07d1-44ad-87a7-4e357b85427f)
 
 # Description
 Data Science London is hosting a meetup on Scikit-learn.  This competition is a practice ground for trying, sharing, and creating examples of sklearn's classification abilities (if this turns in to something useful, we can follow it up with regression, or more complex classification problems).
