@@ -1,9 +1,12 @@
 # Data Science London + scikit-learn
+![header](https://github.com/JamesSuryaPutra/Data-Science-London/assets/155945814/a91fce84-07d1-44ad-87a7-4e357b85427f)
 
 # Description
 Data Science London is hosting a meetup on Scikit-learn.  This competition is a practice ground for trying, sharing, and creating examples of sklearn's classification abilities (if this turns in to something useful, we can follow it up with regression, or more complex classification problems).
 
 We encourage participants to post code via the "Tutorials" link on the left.  Don't worry about accuracy or whether your code is perfect.  The aim here is to explore sklearn by using it. You do not need to use sklearn to enter the competition. If you're new, we hope you'll use this oppurtunity to practice a new tool.  If you're an expert, we hope you'll share the knowledge and document interesting ways to approach this problem.
+
+![scikit-learn-logo](https://github.com/JamesSuryaPutra/Data-Science-London/assets/155945814/1b19dfb7-ee28-42fb-a08d-601e75c46e4f)
 
 Scikit-learn (sklearn) is an established, open-source machine learning library, written in Python with the help of NumPy, SciPy and Cython.
 
